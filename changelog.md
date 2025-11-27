@@ -9,11 +9,11 @@ All notable changes to this project will be documented here.
 - Fixed
 - Security
 
-## [1.0.3] - 2024-11-26
+## [1.0.3] - 2025-11-26
 ### Added
 - changelog.md.
 
-## [1.0.2] - 2024-11-26
+## [1.0.2] - 2025-11-26
 ### Added
 - Structure for README.md.
 

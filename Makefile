@@ -22,7 +22,7 @@ $(BLDDIR) $(BINDIR):
 	mkdir $@
 
 check: $(TARGET)
-	./tesh.sh
+	./test.sh
 
 clean:
 	rm -rf $(BLDDIR) $(BINDIR)

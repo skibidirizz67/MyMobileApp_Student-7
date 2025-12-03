@@ -9,6 +9,30 @@ All notable changes to this project will be documented here.
 - Fixed
 - Security
 
+## [1.0.10] - 2025-12-03
+### Added
+- test.sh
+- .gitignore
+- Makefile
+
+## [1.0.9] - 2025-12-03
+### Changed
+- removed distcheck from c.yml
+### Added
+- c.yml
+
+## [1.0.8] - 2025-11-28
+### Removed
+- branch feature_student7
+### Changed
+- merge pull request from feature_student7
+
+## [1.0.7] - 2025-11-28
+### Changed
+- updated changelog.md
+### Added
+- branch feature_student7
+
 ## [1.0.6] - 2025-11-28
 ### Removed
 - branch feature_student7

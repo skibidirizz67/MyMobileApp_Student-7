@@ -1,4 +1,3 @@
-// gcc main.c -O3 -funroll-loops -march=native && time ./a.out
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>

@@ -20,8 +20,16 @@ GitHub Actions feature test
 
 ### Dependencies
 
+C compiler, Makefile
+
 ### Build
+
+```make```
 
 ### Usage
 
-## Help 
+All parameters are specified in code header.
+
+## Help
+
+No active Windows support.

@@ -9,6 +9,11 @@ All notable changes to this project will be documented here.
 - Fixed
 - Security
 
+## [1.0.11] - 2025-12-03
+### Fixed
+- redundant `configure`
+- typo in Makefile
+
 ## [1.0.10] - 2025-12-03
 ### Added
 - test.sh

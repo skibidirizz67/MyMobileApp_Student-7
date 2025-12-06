@@ -14,6 +14,7 @@
         │  .        / | \              .               │
         └──────────────────────────────────────────────┘
 
+GitHub Actions feature test
 
 ## Getting started
 
